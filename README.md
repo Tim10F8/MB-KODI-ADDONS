@@ -12,7 +12,7 @@ Repository of useful Addons for Kodi
 > (Latest) - This is the latest version of the MB-KODI Repository
 
 Latest Version of the MB-KODI Repo :sunglasses:
-- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ then "installe from zip" each Addon
+- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ then <B>"install from zip"</B> each Addon
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Slyguy
 
