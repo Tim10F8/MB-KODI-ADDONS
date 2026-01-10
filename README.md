@@ -81,7 +81,7 @@ Latest Version of the Diggz Repo :sunglasses:
 
 Latest Version of the Smirgol Repo :sunglasses:
 - This version includes the latest version of the "Crunchyroll" Video Addon
--  <a href="https://raw.githubusercontent.com/smirgol/crunchyroll_repo/refs/heads/main/repository.smirgol/repository.smirgol-1.0.1.zip">Download the CrunchyREroll repo (zip file)</a> (Latest)
+-  <a href="https://raw.githubusercontent.com/smirgol/crunchyroll_repo/refs/heads/main/repository.smirgol/repository.smirgol-1.0.1.zip">Download the Smirgol repo (zip file)</a> (Latest)
 ------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Dislaimer
