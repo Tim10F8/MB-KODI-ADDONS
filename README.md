@@ -76,6 +76,12 @@ Latest Version of the cMaNWizard Repo :sunglasses:
 Latest Version of the Diggz Repo :sunglasses:
 - This version includes the latest version of the "Free99" Video Addon
 -  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
+----------------------------------------------------------------------------------------------------------
+> (Latest) - For Anime Lovers - This is the latest version of Crunchyroll
+
+Latest Version of the CrunchyREroll Repo :sunglasses:
+- This version includes the latest version of the "Crunchyroll" Video Addon
+-  <a href="https://github.com/xtero/crunchyreroll-repo/raw/main/repository.crunchyreroll-1.0.0.zip">Download the CrunchyREroll repo (zip file)</a> (Latest)
 ------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Dislaimer
