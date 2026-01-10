@@ -78,6 +78,7 @@ Latest Version of the Diggz Repo :sunglasses:
 -  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - For Anime Lovers - This is the latest version of Crunchyroll
+> Requires a Crunchyroll account and will dynamically "link" your Kodi device to your online account.
 
 Latest Version of the Smirgol Repo :sunglasses:
 - This version includes the latest version of the "Crunchyroll" Video Addon
